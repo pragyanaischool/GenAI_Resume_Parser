@@ -1,7 +1,7 @@
 import streamlit as st
-from backend.pdf_ingestion import load_split_pdf
-from backend.vector_store import create_vector_store
-from backend.analysis import analyze_resume
+#from backend.pdf_ingestion import load_split_pdf
+#from backend.vector_store import create_vector_store
+#from backend.analysis import analyze_resume
 import os
 import shutil
 
